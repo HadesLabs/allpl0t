@@ -6,7 +6,32 @@ Unlike n0pl0t, I have no plans to maintain this. What you've got here is all I'm
 All releases will be available for download via AnonFiles. Due to the lack of s_x in these releases, they'll also be available to stream on YouTube.
 
 ## Releases
-tba
+### Overflow S1
+* This release is not available to stream due to time constraints.
+* [Download](https://anonfiles.com/796cf1v5w7/Overflow_s1-480p-allpl0t_mp4)
+
+Info
+* 480p
+* 204MB download
+* 26:44 minute runtime
+
+### Isekai Harem Monogatari Ep.1
+* [Stream](https://youtu.be/SZXrnRsMYsY)
+* [Download](https://anonfiles.com/Xaz1eevawe/Isekai_Harem_Monogatari_ep1-480p-allpl0t_mp4)
+
+Info
+* 480p
+* 55MB download
+* 05:46 minute runtime
+
+### Itadaki Seieki
+* [Stream](https://youtu.be/aa229dOGUtQ)
+* [Download](https://anonfiles.com/74Efefv4w6/Itadaki_Seieki-480p-allpl0t_mp4)
+
+Info
+* 480p
+* 67MB download
+* 07:14 minute runtime
 
 ## FAQ
 ### What are the original videos?
