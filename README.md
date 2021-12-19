@@ -20,4 +20,4 @@ This is a joke project, and won't be maintained. I'm not putting too much work i
 Similar to n0pl0t, all videos are in 720p. Whether the videos are censored or not shouldn't really matter in this case.
 
 ### How were the releases picked?
-I sorted by most liked on hanime.tv, filtered out a couple of weird tags (l_li, r_pe, sh_ta etc.) and picked the top three.
+I sorted by most liked on hanime.tv, and ensured that all videos had the tag "Plot". I also picked out Itadaki Seieki because I knew it had a decent amount of storyline. Don't ask how I know.
