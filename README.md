@@ -7,6 +7,9 @@ Unlike n0pl0t, I have no plans to maintain this. What you've got here is all I'm
 tba
 
 ## FAQ
+### What are the original videos?
+Ignoring that you could just stop being a lazy f_ck and just search the videos, a playlist of all original releases is available at https://hanime.tv/playlists/ivkvzzwou9zhy01p772w.
+
 ### Only 3 releases???
 This is a joke project, and won't be maintained. I'm not putting too much work into this one.
 
