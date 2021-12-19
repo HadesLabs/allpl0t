@@ -3,6 +3,8 @@ All of my HadesLabs drops are released privately to people I know before I relea
 
 Unlike n0pl0t, I have no plans to maintain this. What you've got here is all I'm giving you.
 
+All releases will be available for download via AnonFiles. Due to the lack of s_x in these releases, they'll also be available to stream on YouTube.
+
 ## Releases
 tba
 
